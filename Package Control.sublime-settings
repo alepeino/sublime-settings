@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"auto-save",
+		"ClojureDocSearch",
+		"Emmet",
+		"Enhanced Clojure",
+		"Material Theme",
+		"Origami",
+		"Package Control",
+		"Parinfer",
+		"PHP Companion",
+		"php-snippets",
+		"PHPIntel",
+		"Python 3",
+		"SublimeCodeIntel",
+		"TerminalView"
+	]
+}
