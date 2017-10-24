@@ -1,6 +1,6 @@
 [
 	{
-		"keys": ["ctrl+shift+z"],
+		"keys": ["alt+shift+z"],
  		"command": "terminal_view_open",
 		"args": {
 			"cmd": "/bin/bash -l -c /usr/bin/zsh",
