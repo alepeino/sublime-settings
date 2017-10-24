@@ -1,6 +1,7 @@
 {
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"font_size": 10,
+	"highlight_trailing_whitespace": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
