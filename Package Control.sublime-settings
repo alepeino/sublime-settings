@@ -19,7 +19,9 @@
 		"php-snippets",
 		"PHPIntel",
 		"Python 3",
+		"Sass",
 		"SublimeCodeIntel",
-		"TerminalView"
+		"TerminalView",
+		"Vue Syntax Highlight"
 	]
 }
