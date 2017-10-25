@@ -24,5 +24,9 @@
 	{
 		"keys": ["f4"],
 		"command": "import_namespace"
-	}
+	},
+	{ "keys": ["ctrl+shift+a"], "command": "phpunit_test_suite" },
+	{ "keys": ["ctrl+shift+f"], "command": "phpunit_test_file" },
+	{ "keys": ["ctrl+shift+n"], "command": "phpunit_test_nearest" },
+	{ "keys": ["ctrl+shift+l"], "command": "phpunit_test_last" }
 ]
