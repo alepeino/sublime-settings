@@ -42,5 +42,6 @@
 	],
 	"line_padding_bottom": 4,
 	"line_padding_top": 4,
-	"theme": "Material-Theme-Darker.sublime-theme"
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
