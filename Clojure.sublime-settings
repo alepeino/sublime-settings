@@ -1,6 +1,7 @@
 {
 	"extensions":
 	[
+		"cljc",
 		"cljs",
 		"edn"
 	],
