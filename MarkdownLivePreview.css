@@ -1,0 +1,10 @@
+html {
+	--background: #dee2e6;
+	--light-bg: #e9ecef;
+	--very-light-bg: #f8f9fa;
+	color: #212529;
+}
+
+blockquote {
+	color: #495057;
+}
