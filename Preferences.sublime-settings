@@ -1,6 +1,5 @@
 {
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
-	"theme": "Material-Theme-Darker.sublime-theme",
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -43,6 +42,7 @@
 	],
 	"line_padding_bottom": 4,
 	"line_padding_top": 4,
-	"translate_tabs_to_spaces": true,
-	"shift_tab_unindent": true
+	"shift_tab_unindent": true,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
