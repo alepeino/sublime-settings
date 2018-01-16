@@ -1,0 +1,4 @@
+{
+	"shell_cmd": "cd `pwd | sed -E 's#/(src|tests?)(/.*)?##g'` && jest $file",
+	"file_regex": "(?:at node \\((\\S+):(\\d+):(\\d+)\\)|(\\S+):\\s.+\\((\\d+)\\:\\d+\\))"
+}
